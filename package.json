@@ -1,0 +1,12 @@
+{
+  "name": "wxmp-utils",
+  "version": "1.0.0",
+  "description": "The development utils of Wechat(WeXin) mini-program.",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "",
+  "devDependencies": {
+    "miniprogram-api-typings": "^3.6.0"
+  }
+}
